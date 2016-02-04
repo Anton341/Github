@@ -1,0 +1,18 @@
+body {
+  padding:0px;
+  margin:0px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+}
+
+
+nav {
+    width:97.%;
+    padding:6px;
+    background:#cbcbcb;
+}
+
+img {
+    display: block
+}
